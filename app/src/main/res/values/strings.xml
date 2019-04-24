@@ -20,18 +20,18 @@
 
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password</string>
-    <string name="action_sign_in">Sign in</string>
-    <string name="action_sign_in_short">Sign in</string>
-    <string name="error_invalid_email">This email address is invalid</string>
-    <string name="error_invalid_password">This password is too short</string>
-    <string name="error_incorrect_password">This password is incorrect or the email is incorrect</string>
-    <string name="error_field_required">This field is required</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Acceder</string>
+    <string name="action_sign_in_short">Acceder</string>
+    <string name="error_invalid_email">Esta dirección de email es incorrecta</string>
+    <string name="error_invalid_password">Esta contraseña es muy corta</string>
+    <string name="error_incorrect_password">El email o la contraseña son incorrectos</string>
+    <string name="error_field_required">Este campo es obligatorio</string>
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
-    <string name="password_forgotten">Forgot Password?</string>
-    <string name="register">You do not have an account yet?</string>
+    <string name="password_forgotten">¿Has olvidado tu contraseña?</string>
+    <string name="register">¿No tienes una cuenta todavía?</string>
     <string name="title_activity_forgoten_pass">ForgotenPassActivity</string>
     <string name="lostPassword">If you have lost your password yet. Introduce here your address to send you an email to give you a password to enter.</string>
     <string name="name">Alberto</string>
