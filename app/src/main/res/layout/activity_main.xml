@@ -40,6 +40,7 @@
         android:layout_marginStart="133dp"
         android:layout_marginEnd="131dp"
         android:layout_marginBottom="190dp"
+        android:onClick="cargarScaner"
         android:text="Scanner"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
