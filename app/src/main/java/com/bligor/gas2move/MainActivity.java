@@ -58,6 +58,14 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
+    public void cargarScanerZxing(View v) {
+
+        Intent intent = new Intent(v.getContext(), ScannerZxing.class);
+        startActivityForResult(intent, 0);
+
+    }
+
     public void cargarPhotos(View v) {
 
         Intent intent = new Intent(v.getContext(), PhotosActivity.class);

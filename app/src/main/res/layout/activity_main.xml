@@ -43,6 +43,16 @@
         android:layout_marginBottom="190dp"
         android:onClick="cargarScaner"
         android:text="Scanner"
+        app:layout_constraintBottom_toBottomOf="@+id/btnScannerZxing"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btnScannerZxing"
+        android:layout_width="139dp"
+        android:layout_height="48dp"
+        android:onClick="cargarScanerZxing"
+        android:text="SCANNER ZXING"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
