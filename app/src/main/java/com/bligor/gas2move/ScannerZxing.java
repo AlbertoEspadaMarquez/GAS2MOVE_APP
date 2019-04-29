@@ -45,7 +45,6 @@ public class ScannerZxing extends AppCompatActivity {
         intent.setCameraId(0);
         intent.setBeepEnabled(false);
         intent.setBarcodeImageEnabled(false);
-
         intent.setCaptureActivity(CaptureActivityPortrait.class);
         intent.initiateScan();
 
